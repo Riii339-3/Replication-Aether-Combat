@@ -1,0 +1,16 @@
+{
+  "type": "replication:matter_value",
+  "input": {
+    "item": "aether:aether_grass_block"
+  },
+  "matter": [
+    {
+      "type": "replica_aether_combat:etherio",
+      "amount": 2.0
+    },
+    {
+      "type": "replication:organic",
+      "amount": 4.0
+    }
+  ]
+}

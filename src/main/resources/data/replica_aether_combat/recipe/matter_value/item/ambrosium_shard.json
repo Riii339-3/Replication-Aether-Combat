@@ -1,0 +1,12 @@
+{
+  "type": "replication:matter_value",
+  "input": {
+    "item": "aether:ambrosium_shard"
+  },
+  "matter": [
+    {
+      "type": "replica_aether_combat:etherio",
+      "amount": 4.0
+    }
+  ]
+}

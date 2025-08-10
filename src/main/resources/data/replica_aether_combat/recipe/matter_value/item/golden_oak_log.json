@@ -1,0 +1,20 @@
+{
+  "type": "replication:matter_value",
+  "input": {
+    "item": "aether:golden_oak_log"
+  },
+  "matter": [
+    {
+      "type": "replica_aether_combat:etherio",
+      "amount": 4.0
+    },
+    {
+      "type": "replication:earth",
+      "amount": 8.0
+    },
+    {
+      "type": "replication:organic",
+      "amount": 8.0
+    }
+  ]
+}

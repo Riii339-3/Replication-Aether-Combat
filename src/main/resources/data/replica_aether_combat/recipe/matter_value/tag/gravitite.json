@@ -1,0 +1,16 @@
+{
+  "type": "replication:matter_value",
+  "input": {
+    "tag": "aether:processed/gravitite"
+  },
+  "matter": [
+    {
+      "type": "replica_aether_combat:etherio",
+      "amount": 36.0
+    },
+    {
+      "type": "replication:quantum",
+      "amount": 18.0
+    }
+  ]
+}

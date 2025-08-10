@@ -1,0 +1,16 @@
+{
+  "type": "replication:matter_value",
+  "input": {
+    "tag": "aether:gems/zanite"
+  },
+  "matter": [
+    {
+      "type": "replica_aether_combat:etherio",
+      "amount": 9.0
+    },
+    {
+      "type": "replication:metallic",
+      "amount": 9.0
+    }
+  ]
+}

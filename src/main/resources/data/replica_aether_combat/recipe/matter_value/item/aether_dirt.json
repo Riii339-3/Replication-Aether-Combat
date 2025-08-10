@@ -1,0 +1,16 @@
+{
+  "type": "replication:matter_value",
+  "input": {
+    "item": "aether:aether_dirt"
+  },
+  "matter": [
+    {
+      "type": "replica_aether_combat:etherio",
+      "amount": 1.0
+    },
+    {
+      "type": "replication:earth",
+      "amount": 1.0
+    }
+  ]
+}
