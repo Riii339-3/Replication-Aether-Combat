@@ -11,8 +11,6 @@ object ModMatterTypes {
     val MATTER_TYPES: DeferredRegister<IMatterType> =
         DeferredRegister.create(ReplicationRegistry.MATTER_TYPES_KEY, Main.ID)
 
-    private val ETHERIO_INSTANCE = EtherioMatterType()
-
     fun register(bus: IEventBus) {
         MATTER_TYPES.register(bus)
     }
