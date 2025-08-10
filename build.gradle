@@ -107,9 +107,10 @@ sourceSets.main.resources { srcDir 'src/generated/resources' }
 
 
 dependencies {
-    implementation 'thedarkcolour:kotlinforforge-neoforge:5.9.0'
     compileOnly "curse.maven:replication-638351:6763336"
     runtimeOnly "curse.maven:replication-638351:6763336"
+    compileOnly "thedarkcolour:kotlinforforge-neoforge:5.9.0"
+    runtimeOnly "thedarkcolour:kotlinforforge-neoforge:5.9.0"
     compileOnly "curse.maven:titanium-287342:6443608"
     runtimeOnly "curse.maven:titanium-287342:6443608"
 
